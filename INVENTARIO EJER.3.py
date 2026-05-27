@@ -2,7 +2,7 @@
 # Curso: Fundamentos de Programación - Código: 213022
 # Fase 5 - Evaluación Final POA
 # Problema 3: Auditoría de Inventario
------------------------------------------------------------ 
+
 # MATRIZ DEL INVENTARIO
 
 inventario = [
